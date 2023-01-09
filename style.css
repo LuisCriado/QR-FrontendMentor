@@ -1,0 +1,62 @@
+
+
+
+  @media only screen and (min-width:850px) and (max-width: 1360px){
+    .acomodo{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+    
+    .tarjeta {
+
+        margin-left: 250px;
+       
+    
+      }
+  }
+
+
+  @media only screen and (min-width:575px) and (max-width: 850px){
+
+    .acomodo{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+        
+        
+    }
+    .tarjeta {
+
+        margin-left: 170px
+        
+       
+    
+      }
+      .attribution{
+        text-align: justify;
+
+      }
+  }
+  
+  
+  
+  @media only screen and (max-width: 575px){
+
+    
+.acomodo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+
+
+
+
+
+   
+  }
